@@ -1,2 +1,2 @@
 # StatsbombDataCsv
-Statsbomb Data in Csv Format
+Access Statsbomb Data from https://github.com/statsbomb/open-data in Csv Format
